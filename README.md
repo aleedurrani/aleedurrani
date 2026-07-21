@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/aghaalidurrani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Pakistan-333333?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
 <a href="https://my-portfolio-deployed-coral.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-ffb54f?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
